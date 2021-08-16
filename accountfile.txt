@@ -1,0 +1,2 @@
+M,CSE,Female,Female,017,R,R,R,R,A+,R,
+MOU,BBA,Female,Female,01999,E,E,E,E,B+,E,
